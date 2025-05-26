@@ -2,7 +2,7 @@
 
 Querying with SQL to Understand MovieFlix Database
 ---
-(<img width="527" alt="image" src="https://github.com/user-attachments/assets/0fada015-a4f1-4a0b-b3c8-efc91f689039" />)
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/0fada015-a4f1-4a0b-b3c8-efc91f689039" />
 
 *Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and design to demonstrate my capabilities of using SQL to perform descriptive and diagnostic analytics.*
 
